@@ -1,0 +1,13 @@
+* {
+    color: white;
+    font-family:sans-serif;
+    font-size:large;
+}
+
+div {
+    background-color: red;
+    font-weight:bold;
+    font-size:xx-large;
+    font-family:'Times New Roman', Times, serif;
+  }
+}
